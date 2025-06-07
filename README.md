@@ -51,19 +51,19 @@
 
 ### ⚒️ Projetos 
 
-#### [Gerenciador de Contatos](https://github.com/tallis-azevedo/CRUD---GerenciadorDeContatos)
+#### [Gerenciador de Contatos](https://github.com/tallisazevedo/GerenciadorDeContatos)
 > Aplicação criada para gerenciar lista de contatos, servindo para diversos cenários de uso.  
 > Pequeno projeto desenvolvido durante estudos de C#.
 
-#### [ToDo](https://github.com/tallis-azevedo/GerenciadorDeTarefas)
+#### [ToDo](https://github.com/tallisazevedo/GerenciadorDeTarefas)
 > Aplicação criada para listar tarefas que precisam ser feitas.  
 > Pequeno projeto desenvolvido durante estudos de C#.
 
-#### [Calculadora de Horas](https://github.com/tallis-azevedo/CalculadoraHoras)
+#### [Calculadora de Horas](https://github.com/tallisazevedo/CalculadoraDeHoras)
 > Aplicação com finalidade de realizar operações matemáticas com horas, minutos e segundos, sendo elas, adição e subtração.  
 > Pequeno projeto desenvolvido durante os estudos de timezones em C#.
 
-#### [Banco de Dados para Gestão de Lojas](https://github.com/tallis-azevedo/uvv_bd1_CC1M)
+#### [Banco de Dados para Gestão de Lojas](https://github.com/tallisazevedo/uvv_bd1_cc1mc)
 > Banco de dados criado com a finalidade de englobar operações físicas e online para gestão de uma loja.
 > Projeto desenvolvido durante o semestre da matéria de Desenvolvimento de Banco de dados. Nesse projeto foi utilizado o **SQL Power Architect** para construir tabelas, editar colunas e criar comentários.
 
