@@ -38,12 +38,12 @@
   <img 
     alt="GitHub Stats" 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=tallis-azevedo&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=tallisazevedo&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Langs"
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallis-azevedo&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallisazevedo&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
 
