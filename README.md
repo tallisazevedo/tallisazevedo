@@ -29,7 +29,7 @@
 ---
 
 ### 📚 Em estudos
-> HTML | CSS | JS
+> 
 
 ---
 
