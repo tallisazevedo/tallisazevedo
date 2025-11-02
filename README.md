@@ -2,12 +2,6 @@
 
 ### 🤖 Linguagens e Tecnologias
 <img 
-    alt="C#"
-    title="C#" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img 
     alt=".Net Core" 
     title=".Net Core"
     width="40px" 
