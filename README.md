@@ -105,12 +105,12 @@ const tallis = {
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tallisazevedo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
+<img width="49%" src="https://github-readme-stats-nu-mocha-63.vercel.app/api?username=tallisazevedo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tallisazevedo&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888"/>
 
 <br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallisazevedo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img width="40%" src="https://github-readme-stats-nu-mocha-63.vercel.app/api/top-langs/?username=tallisazevedo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 <br><br>
 
@@ -126,7 +126,7 @@ const tallis = {
 <div align="center">
 
 <a href="https://github.com/tallisazevedo/Cidadesolar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tallisazevedo&repo=Cidadesolar&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img src="https://github-readme-stats-nu-mocha-63.vercel.app/api/pin/?username=tallisazevedo&repo=Cidadesolar&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
 </a>
 
 
@@ -138,7 +138,7 @@ const tallis = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tallisazevedo&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy-six-beta.vercel.app/?username=tallisazevedo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
