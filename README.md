@@ -68,40 +68,24 @@ const tallis = {
 <summary><b>🎨 Frontend</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031"/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </details>
 
 <details open>
 <summary><b>⚙️ Backend</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=dotnet,cs&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/.NET_Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
-<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120"/>
-<img src="https://img.shields.io/badge/Entity_Framework-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
 </details>
 
 <details open>
 <summary><b>🗄️ Banco de Dados</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/PL%2FSQL-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 </details>
 
 <details open>
 <summary><b>🛠️ Ferramentas & DevOps</b></summary>
 <br>
 <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,jenkins,bitbucket&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
 </details>
 
 </div>
@@ -150,14 +134,55 @@ const tallis = {
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="28"> &nbsp;Ouvindo Agora
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="28"> &nbsp;Troféus
 
 <div align="center">
 
-[![Spotify](https://novatorem-tallisazevedo.vercel.app/api/spotify)](https://open.spotify.com/user/SEU_USER_ID)
+<img src="https://github-profile-trophy.vercel.app/?username=tallisazevedo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 
 </div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="28"> &nbsp;Leituras Atuais
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/📖_FINALIZANDO-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+      <br><br>
+      <strong>Lógica de Programação e Algoritmos com JavaScript</strong>
+      <br>
+      <sub>Edécio Fernando Iepsen</sub>
+      <br><br>
+      <img src="https://progress-bar.xyz/90/?width=150&color=00D9FF&background=161B22"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/📚_PRÓXIMO-888888?style=for-the-badge&labelColor=0D1117"/>
+      <br><br>
+      <strong>Aprendendo TypeScript</strong>
+      <br>
+      <sub>Josh Goldberg</sub>
+      <br><br>
+      <img src="https://progress-bar.xyz/0/?width=150&color=00D9FF&background=161B22"/>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/📚_NA_FILA-888888?style=for-the-badge&labelColor=0D1117"/>
+      <br><br>
+      <strong>Use a Cabeça C#</strong>
+      <br>
+      <sub>Andrew Stellman</sub>
+      <br><br>
+      <img src="https://progress-bar.xyz/0/?width=150&color=00D9FF&background=161B22"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
 
 <br>
 
