@@ -134,16 +134,6 @@ const tallis = {
 
 <br>
 
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="28"> &nbsp;Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy-six-beta.vercel.app/?username=tallisazevedo&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
-<br>
-
 ## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="28"> &nbsp;Leituras Atuais
 
 <div align="center">
