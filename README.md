@@ -1,105 +1,177 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0A64FF,100:0748BF&height=150&section=header&text=Tallis%20Azevedo&fontSize=40&fontColor=FFFFFF&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00D9FF&height=120&section=header"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+<a href="https://github.com/tallisazevedo">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=%3C%2F%3E+TALLIS+AZEVEDO;Fullstack+Developer" alt="Typing SVG" />
+</a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=%7B+Fullstack+Developer+%7D;End-to-end+solutions+architect)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a href="https://linkedin.com/in/tallisazevedo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tallisazevedo@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://seusite.com"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<p>
+  <img src="https://img.shields.io/badge/📍-Guarapari,%20ES-0D1117?style=flat&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🏢-Grupo%20Autoglass-0D1117?style=flat&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/💼-Fullstack%20Developer-00D9FF?style=flat&labelColor=0D1117"/>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/tallisazevedo">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tallisazevedo@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=00D9FF&labelColor=0D1117" alt="Email"/>
+  </a>
+  <a href="https://github.com/tallisazevedo">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117" alt="GitHub"/>
+  </a>
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=tallisazevedo&color=00D9FF&style=for-the-badge&label=VISUALIZAÇÕES"/>
 
 </div>
 
----
+<br>
 
-## Sobre mim
 
-```yaml
-nome: Tallis Azevedo
-cargo: Fullstack Developer
-localizacao: Guarapari - ES, BR
-empresa: Grupo Autoglass
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre Mim
 
-experiencia:
-  - Aplicacoes web completas (front + back)
-  - APIs REST e LINQ
-  - Bancos de dados relacionais e modelagem
-  - Migração de aplicações legadas (front + back)
-  - Arquitetura baseada na filosofia do DDD
-
-aprendendo:
-  - System Desing
-  - Dapper
-hobbies:
-  - Leitura
-  - Games
+```js
+const tallis = {
+    cargo: "Fullstack Developer",
+    empresa: "Grupo Autoglass",
+    localização: "Guarapari - ES, Brasil",
+    
+    experiência: [
+        "Aplicações web completas (front + back)",
+        "APIs REST com .NET Core",
+        "Bancos de dados relacionais e PL/SQL",
+        "Migração de sistemas legados",
+        "Arquitetura baseada em DDD"
+    ],
+    
+    estudando: ["System Design", "Dapper", "Clean Architecture"],
+    
+    hobbies: ["📚 Leitura", "🎮 Games"]
+};
 ```
 
-<br clear="both"/>
+<br>
 
----
 
-## Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3p3mf5p3hl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap&theme=dark" alt="Frontend" />
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</details>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="Backend" />
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=dotnet,cs&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/.NET_Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+<img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120"/>
+<img src="https://img.shields.io/badge/Entity_Framework-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+</details>
 
-### Database & ORM
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database" />
+<details open>
+<summary><b>🗄️ Banco de Dados</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/PL%2FSQL-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+</details>
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,bitbucket,vscode,visualstudio,jenkins&theme=dark" alt="DevOps" />
+<details open>
+<summary><b>🛠️ Ferramentas & DevOps</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,jenkins,bitbucket&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
+</details>
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tallisazevedo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&color=A855F7&line=A855F7&point=FFFFFF" width="95%"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tallisazevedo&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+<br>
 
 
-
----
-
-## Projetos em Destaque
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Stats
 
 <div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tallisazevedo/tallisazevedo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tallisazevedo/tallisazevedo/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tallisazevedo/tallisazevedo/output/github-snake-dark.svg" />
+</picture>
 
-### ☀️ [Cidadesolar](https://github.com/tallisazevedo/Cidadesolar)
-> Descrição curta e impactante do seu projeto aqui (ex: Plataforma de monitoramento de energia solar).
+<br><br>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tallisazevedo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tallisazevedo&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888"/>
 
-[➔ Ver demonstração](https://cidadesolar-26oapcpm8-tallisazevedos-projects.vercel.app/) | [➔ Reportar Bug](https://github.com/tallisazevedo/Cidadesolar/issues)
+<br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallisazevedo&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tallisazevedo&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=📊%20Gráfico%20de%20Contribuições"/>
 
 </div>
 
----
+<br>
+
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Projetos em Destaque
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/tallisazevedo/tallisazevedo/output/github-contribution-grid-snake-dark.svg)
+<a href="https://github.com/tallisazevedo/Cidadesolar">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tallisazevedo&repo=Cidadesolar&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+</a>
 
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=tallisazevedo&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:A855F7&height=100&section=footer)
 
 </div>
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="28"> &nbsp;Ouvindo Agora
+
+<div align="center">
+
+[![Spotify](https://novatorem-tallisazevedo.vercel.app/api/spotify)](https://open.spotify.com/user/SEU_USER_ID)
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Código%20limpo%20não%20é%20escrito%20seguindo%20regras.%20Você%20não%20se%20torna%20um%20artista%20aprendendo%20a%20pintar%20por%20números.&author=Robert%20C.%20Martin"/>
+
+</div>
+
+<br>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:161B22,100:0D1117&height=120&section=footer"/>
+
+     
+     
